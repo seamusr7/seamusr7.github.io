@@ -93,3 +93,28 @@ Scalability:
 By using MongoDB Atlas, the application leverages cloud-based database services that provide scalability, high availability, and security features, aligning with industry standards for modern database management.
 
 ## Screenshots
+![cap1](https://github.com/seamusr7/seamusr7.github.io/assets/104316364/e648fdb3-4bc8-407d-b9cc-096586e101e3) ![cap 2](https://github.com/seamusr7/seamusr7.github.io/assets/104316364/8b70d8fd-9451-49ad-a2bc-d7bf35700023)
+![capture1](https://github.com/seamusr7/seamusr7.github.io/assets/104316364/e2a887e3-14f9-4d89-b492-6739e40f22cc)
+![capture2](https://github.com/seamusr7/seamusr7.github.io/assets/104316364/3759244d-30f0-4543-846f-cfcf301751cc)
+![capture3](https://github.com/seamusr7/seamusr7.github.io/assets/104316364/8df87629-9038-4597-a579-146d713c81c0)
+![capture4](https://github.com/seamusr7/seamusr7.github.io/assets/104316364/0f4c21f3-e2e1-41ec-ab3b-91d77f179319)
+![capture5](https://github.com/seamusr7/seamusr7.github.io/assets/104316364/1b613ed7-fb64-4bdc-9677-92c5315ad536)
+![capture6](https://github.com/seamusr7/seamusr7.github.io/assets/104316364/91409231-fa3b-4a75-aaae-5ac5bc4f28bd)
+![capture7](https://github.com/seamusr7/seamusr7.github.io/assets/104316364/48736048-b995-4a0b-bedc-7923dd5a97ce)
+
+## Conclusion
+The Animal Shelter Management System is a robust application that integrates software design and engineering principles, efficient algorithms and data structures, and advanced database management techniques. This project not only fulfills the requirements of a comprehensive animal shelter management tool but also demonstrates the developer's proficiency in creating well-designed, efficient, and scalable software solutions. The inclusion of this artifact in the ePortfolio effectively showcases the skills and knowledge acquired throughout the Computer Science program, preparing the developer for a successful career in the field.
+
+## Artifact Narratives
+[Narrative for Animal Shelter Management System.docx](https://github.com/user-attachments/files/15522976/Narrative.for.Animal.Shelter.Management.System.docx)
+
+[Artifact Narrative for ePortfolio.docx](https://github.com/user-attachments/files/15522977/Artifact.Narrative.for.ePortfolio.docx)
+
+
+# Code Review
+
+https://github.com/seamusr7/seamusr7.github.io/assets/104316364/4bdfc633-945e-4a41-b9b1-2478e5dde91c
+
+
+
+
