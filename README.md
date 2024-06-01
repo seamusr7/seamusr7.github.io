@@ -1,4 +1,3 @@
-
 ## Professional Self-Assessment
 ### Introduction
 
