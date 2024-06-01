@@ -1,4 +1,4 @@
-# CS-499 Capstone Project
+
 
 ## Professional Self-Assessment
 ### Introduction
