@@ -9,7 +9,7 @@ Completing my coursework throughout the Computer Science program and developing 
 
 The comprehensive curriculum of the Computer Science program has enabled me to develop a diverse skill set, which is effectively showcased through my ePortfolio. By engaging with a wide range of projects, I have been able to demonstrate my proficiency in software design, data structures, algorithms, database management, and security. This hands-on experience has not only solidified my technical abilities but also shaped my professional goals and values, emphasizing the importance of continuous learning, innovation, and collaboration.
 
-One of the key projects that highlight my capabilities is the Animal Shelter Management System. This project required me to integrate advanced search functionalities, improve the graphical user interface (GUI), and implement secure login and registration processes. By enhancing this application, I was able to demonstrate my expertise in software design and engineering, as well as my ability to manage and query a non-relational database using MongoDB.
+The key project that highlight my capabilities is the Animal Shelter Management System. This project required me to integrate advanced search functionalities, improve the graphical user interface (GUI), and implement secure login and registration processes. By enhancing this application, I was able to demonstrate my expertise in software design and engineering, as well as my ability to manage and query a non-relational database using MongoDB.
 
 ### Collaborating in a Team Environment
 
@@ -44,3 +44,52 @@ Database Management: Reflects my experience in designing and managing databases.
 ### Conclusion
 
 The comprehensive education and hands-on experience provided by the Computer Science program have equipped me with a diverse skill set and a strong foundation in key areas of computer science. My ePortfolio, centered around the Animal Shelter Management System, serves as a testament to my technical abilities, professional growth, and readiness to contribute effectively in the field. By showcasing my strengths and achievements, I am confident that my ePortfolio will help me stand out to potential employers and advance my career in computer science.
+
+## Chosen Artifact: Animal Shelter Management System
+
+[Original Artifact Code](https://github.com/seamusr7/CS-340)
+[Enhanced Artifact Code](https://github.com/seamusr7/seamusr7.github.io)
+
+## Description
+- Software Design and Engineering
+
+The Animal Shelter Management System demonstrates robust software design and engineering principles. Key aspects include:
+
+Modular Design: 
+
+The project is divided into distinct modules, such as the AnimalShelter class for database operations and different classes for the GUI components (LoginScreen, RegisterScreen, MainApp, AddAnimalScreen, and UpdateAnimalScreen). This modular approach ensures that each component is responsible for a specific functionality, enhancing maintainability and readability.
+
+User Interface: 
+
+The application uses Tkinter for creating a user-friendly interface. The GUI components are well-organized, providing a smooth user experience. Features such as form validation, error handling, and interactive elements (e.g., buttons and input fields) are implemented to ensure robustness.
+Dark Mode: The application supports a dark mode, showcasing the ability to enhance user experience through customizable interface themes.
+
+- Algorithms and Data Structures
+  
+The project showcases the application of algorithms and data structures through the implementation of searching and sorting functionalities:
+
+Searching: 
+
+The application allows users to search for animals based on various criteria such as animal type, breed, age, and color. The search functionality utilizes regular expressions and MongoDB's query capabilities to perform case-insensitive and partial matches, demonstrating efficient use of algorithms to handle complex queries.
+
+Sorting: 
+
+The project includes both quick sort and merge sort algorithms to sort animal records based on selected attributes (e.g., animal ID, type, breed, age). These sorting algorithms are implemented to handle the data efficiently, showcasing a deep understanding of algorithmic principles and their practical application in real-world scenarios.
+
+- Databases
+  
+The use of MongoDB Atlas as the database solution highlights the project's ability to manage data effectively:
+
+Database Connectivity: 
+
+The AnimalShelter class manages the connection to the MongoDB Atlas database using the pymongo library. It includes methods for CRUD (Create, Read, Update, Delete) operations, demonstrating proficiency in database management.
+
+Data Storage: 
+
+Animal records and user credentials are securely stored in the MongoDB database. The project ensures data integrity and consistency through proper database operations and error handling mechanisms.
+
+Scalability: 
+
+By using MongoDB Atlas, the application leverages cloud-based database services that provide scalability, high availability, and security features, aligning with industry standards for modern database management.
+
+## Screenshots
