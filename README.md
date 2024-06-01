@@ -116,7 +116,7 @@ The Animal Shelter Management System is a robust application that integrates sof
 # Project Video
 
 <video width="640" height="480" controls>
-  <source src="https://github.com/seamusr7/seamusr7.github.io/blob/main/path/to/video.mp4?raw=true" type="video/mp4">
+  <source src="https://github.com/seamusr7/seamusr7.github.io/tree/main">
   Your browser does not support the video tag.
 </video>
 
