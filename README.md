@@ -116,7 +116,6 @@ The Animal Shelter Management System is a robust application that integrates sof
 
 [Code Review Video](https://drive.google.com/file/d/1CicPxzCvWysFWSRfCWKxvwih5BYLfG_i/view?usp=drive_link)
 
-https://github.com/seamusr7/seamusr7.github.io/assets/104316364/4bdfc633-945e-4a41-b9b1-2478e5dde91c
 
 
 
