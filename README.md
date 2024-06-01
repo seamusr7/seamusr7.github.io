@@ -102,6 +102,8 @@ By using MongoDB Atlas, the application leverages cloud-based database services 
 ![capture5](https://github.com/seamusr7/seamusr7.github.io/assets/104316364/1b613ed7-fb64-4bdc-9677-92c5315ad536)
 ![capture6](https://github.com/seamusr7/seamusr7.github.io/assets/104316364/91409231-fa3b-4a75-aaae-5ac5bc4f28bd)
 ![capture7](https://github.com/seamusr7/seamusr7.github.io/assets/104316364/48736048-b995-4a0b-bedc-7923dd5a97ce)
+![cap3](https://github.com/seamusr7/seamusr7.github.io/assets/104316364/89b6c924-90e4-4b33-b79b-871a597f7d9c)
+
 
 ## Conclusion
 The Animal Shelter Management System is a robust application that integrates software design and engineering principles, efficient algorithms and data structures, and advanced database management techniques. This project not only fulfills the requirements of a comprehensive animal shelter management tool but also demonstrates the developer's proficiency in creating well-designed, efficient, and scalable software solutions. The inclusion of this artifact in the ePortfolio effectively showcases the skills and knowledge acquired throughout the Computer Science program, preparing the developer for a successful career in the field.
