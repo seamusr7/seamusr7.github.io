@@ -48,6 +48,7 @@ The comprehensive education and hands-on experience provided by the Computer Sci
 ## Chosen Artifact: Animal Shelter Management System
 
 [Original Artifact Code](https://github.com/seamusr7/CS-340)
+
 [Enhanced Artifact Code](https://github.com/seamusr7/seamusr7.github.io)
 
 ## Description
