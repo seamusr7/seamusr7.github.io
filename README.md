@@ -107,9 +107,9 @@ By using MongoDB Atlas, the application leverages cloud-based database services 
 The Animal Shelter Management System is a robust application that integrates software design and engineering principles, efficient algorithms and data structures, and advanced database management techniques. This project not only fulfills the requirements of a comprehensive animal shelter management tool but also demonstrates the developer's proficiency in creating well-designed, efficient, and scalable software solutions. The inclusion of this artifact in the ePortfolio effectively showcases the skills and knowledge acquired throughout the Computer Science program, preparing the developer for a successful career in the field.
 
 ## Artifact Narratives
-[Narrative for Animal Shelter Management System.docx](https://github.com/user-attachments/files/15522976/Narrative.for.Animal.Shelter.Management.System.docx)
 
-[Artifact Narrative for ePortfolio.docx](https://github.com/user-attachments/files/15522977/Artifact.Narrative.for.ePortfolio.docx)
+[Artifact Narrative for ePortfolio.docx](https://github.com/user-attachments/files/15749404/Artifact.Narrative.for.ePortfolio.docx)
+
 
 
 # Code Review
